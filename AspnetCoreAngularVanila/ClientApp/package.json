@@ -8,8 +8,8 @@
     "url": "https://www.espire.com/about"
   },
   "license": "MIT",
-  "homepage": "https://www.espire.com/AspnetCoreAngularVanila",
-  "repository": "https://github.com/emonney/AspnetCoreAngularVanila.git",
+  "homepage": "https://www.espire.com/",
+  "repository": "https://github.com/niladridm/AspnetCoreAngularVanila/tree/master/AspnetCoreAngularVanila/ClientApp",
   "scripts": {
     "ng": "ng",
     "start": "run-p theme \"serve -- {@}\" --",
